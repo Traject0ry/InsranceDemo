@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="disanfang">
+        <item>5万</item>
+        <item>10万</item>
+        <item>20万</item>
+        <item>30万</item>
+        <item>50万</item>
+        <item>100万</item>
+        <item>150万</item>
+        <item>200万</item>
+
+    </string-array>
+
+
+
+    <string-array name="sijizeren">
+        <item>1万</item>
+        <item>2万</item>
+        <item>3万</item>
+        <item>4万</item>
+        <item>5万</item>
+        <item>10万</item>
+        <item>20万</item>
+
+    </string-array>
+
+    <string-array name="chengkezeren">
+        <item>1万/座</item>
+        <item>2万/座</item>
+        <item>3万/座</item>
+        <item>4万/座</item>
+        <item>5万/座</item>
+        <item>10万/座</item>
+        <item>20万/座</item>
+
+    </string-array>
+
+    <string-array name="boliposui">
+        <item>国产</item>
+        <item>进口</item>
+
+
+    </string-array>
+
+    <string-array name="cheshenhuahen">
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+
+
+    </string-array>
+</resources>

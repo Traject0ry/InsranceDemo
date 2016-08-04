@@ -123,7 +123,7 @@
                 style="@style/MyButtonStyle"
                 android:paddingLeft="100dp"
                 android:paddingRight="100dp"
-                android:text="立即支付"/>
+                android:text="联系客服"/>
 
     </LinearLayout>
 

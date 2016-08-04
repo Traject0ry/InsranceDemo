@@ -78,7 +78,7 @@ public class EditTextValidator {
 
 				@Override
 				public void onTextChanged(CharSequence s, int start, int before, int count) {
-					setEnabled();
+
 				}
 
 				@Override
@@ -91,7 +91,7 @@ public class EditTextValidator {
 			});
 		}
 
-		setEnabled();
+
 
 		return this;
 	}

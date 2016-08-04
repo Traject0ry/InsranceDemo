@@ -420,6 +420,7 @@
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/><attr format="reference" name="subMenuArrow"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/><attr name="android:popupAnimationStyle"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
     <declare-styleable name="SwitchButton"><attr format="reference" name="kswThumbDrawable"/><attr format="color|reference" name="kswThumbColor"/><attr format="dimension|reference" name="kswThumbMargin"/><attr format="dimension|reference" name="kswThumbMarginTop"/><attr format="dimension|reference" name="kswThumbMarginBottom"/><attr format="dimension|reference" name="kswThumbMarginLeft"/><attr format="dimension|reference" name="kswThumbMarginRight"/><attr format="dimension|reference" name="kswThumbWidth"/><attr format="dimension|reference" name="kswThumbHeight"/><attr format="dimension|reference" name="kswThumbRadius"/><attr format="dimension|reference" name="kswBackRadius"/><attr format="reference" name="kswBackDrawable"/><attr format="color|reference" name="kswBackColor"/><attr format="boolean" name="kswFadeBack"/><attr format="float" name="kswBackMeasureRatio"/><attr format="integer" name="kswAnimationDuration"/><attr format="color|reference" name="kswTintColor"/><attr format="string" name="kswTextOn"/><attr format="string" name="kswTextOff"/><attr format="dimension" name="kswTextMarginH"/></declare-styleable>
@@ -507,6 +508,9 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
     <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
     <dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
     <dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
@@ -524,6 +528,7 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>

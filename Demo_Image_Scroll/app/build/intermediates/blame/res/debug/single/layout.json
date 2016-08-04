@@ -40,6 +40,10 @@
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hebao_item.xml",
+        "source": "D:\\workspace\\Demo_Image_Scroll\\app\\src\\main\\res\\layout\\hebao_item.xml"
+    },
+    {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -132,16 +136,20 @@
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner_tab_layout.xml",
+        "source": "D:\\workspace\\Demo_Image_Scroll\\app\\src\\main\\res\\layout\\banner_tab_layout.xml"
+    },
+    {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -186,10 +194,6 @@
     {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_vew_item.xml",
-        "source": "D:\\workspace\\Demo_Image_Scroll\\app\\src\\main\\res\\layout\\scroll_vew_item.xml"
     },
     {
         "merged": "D:\\workspace\\Demo_Image_Scroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_children.xml",

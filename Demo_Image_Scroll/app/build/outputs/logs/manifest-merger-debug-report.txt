@@ -47,10 +47,15 @@ MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scro
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.shizhefei:ViewPagerIndicator:1.0.9] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.shizhefei\ViewPagerIndicator\1.0.9\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
 MERGED from [Demo_Image_Scroll:aValidations:unspecified] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\Demo_Image_Scroll\aValidations\unspecified\AndroidManifest.xml:11:5-16:19
 MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from D:\workspace\Demo_Image_Scroll\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from [com.shizhefei:ViewPagerIndicator:1.0.9] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.shizhefei\ViewPagerIndicator\1.0.9\AndroidManifest.xml:13:9-35
 	android:allowBackup
 		ADDED from D:\workspace\Demo_Image_Scroll\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
@@ -133,6 +138,10 @@ MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\workspace\De
 MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.shizhefei:ViewPagerIndicator:1.0.9] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.shizhefei\ViewPagerIndicator\1.0.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:23.2.1] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
 MERGED from [Demo_Image_Scroll:aValidations:unspecified] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\Demo_Image_Scroll\aValidations\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:24.0.0] D:\workspace\Demo_Image_Scroll\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54

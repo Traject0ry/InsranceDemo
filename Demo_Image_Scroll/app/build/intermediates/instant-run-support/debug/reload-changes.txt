@@ -1,15 +1,3 @@
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\Activity_self2$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$string$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$menu$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$integer$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\SelectActivity$MyExpandableListAdapter$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$styleable$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$style$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\kyleduo\switchbutton\R$id$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$id$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\R$layout$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\SelectActivity$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\MainActivity$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\demo_image_scroll\SearchModelNumActivity$override.class
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\cndemoz\avalidations\EditTextValidator$override.class
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\cndemoz\avalidations\EditTextValidator$1$override.class
 CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

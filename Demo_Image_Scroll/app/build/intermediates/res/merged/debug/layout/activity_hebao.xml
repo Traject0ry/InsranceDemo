@@ -50,10 +50,22 @@
         />
 
     <LinearLayout
+        android:layout_marginTop="60dp"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="@color/pink">
+        android:layout_height="40dp"
+        android:background="@color/white">
 
-    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:textSize="16sp"
+            android:text="你还可以核保以下险企"/>
+   </LinearLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>

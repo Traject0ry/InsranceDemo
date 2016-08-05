@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces>
+<province name="浙江省">
+    <city>
+        <name>杭州市</name>
+        <value>浙A</value>
+    </city>
+    <city>
+        <name>宁波市</name>
+        <value>浙B</value>
+    </city>
+    <city>
+        <name>温州市</name>
+        <value>浙C</value>
+    </city>
+    <city>
+        <name>嘉兴市</name>
+        <value>浙F</value>
+    </city>
+    <city>
+        <name>湖州市</name>
+        <value>浙E</value>
+    </city>
+    <city>
+        <name>绍兴市</name>
+        <value>浙D</value>
+    </city>
+    <city>
+        <name>金华市</name>
+        <value>浙G</value>
+    </city>
+    <city>
+        <name>衢州市</name>
+        <value>浙H</value>
+    </city>
+    <city>
+        <name>舟山市</name>
+        <value>浙L</value>
+    </city>
+    <city>
+        <name>台州市</name>
+        <value>浙J</value>
+    </city>
+    <city>
+        <name>丽水市</name>
+        <value>浙K</value>
+    </city>
+
+</province>
+<province name="安徽省">
+    <city>
+        <value>皖A</value>
+        <name>合肥市</name>
+    </city>
+
+    <city>
+        <value>皖B</value>
+        <name>芜湖市</name>
+    </city>
+
+    <city>
+        <value>皖C</value>
+        <name>蚌埠市</name>
+    </city>
+
+    <city>
+        <value>皖D</value>
+        <name>淮南市</name>
+    </city>
+
+    <city>
+        <value>皖E</value>
+        <name>马鞍山市</name>
+    </city>
+
+    <city>
+        <value>皖F</value>
+        <name>淮北市</name>
+    </city>
+
+    <city>
+        <value>皖G</value>
+        <name>铜陵市</name>
+    </city>
+
+    <city>
+        <value>皖H</value>
+        <name>安庆市</name>
+    </city>
+
+    <city>
+        <value>皖J</value>
+        <name>黄山市</name>
+    </city>
+
+    <city>
+        <value>皖M</value>
+        <name>滁州市</name>
+    </city>
+
+    <city>
+        <value>皖K</value>
+        <name>阜阳市</name>
+    </city>
+
+    <city>
+        <value>皖L</value>
+        <name>宿州市</name>
+    </city>
+
+    <city>
+        <value>皖N</value>
+        <name>六安市</name>
+    </city>
+
+    <city>
+        <value>皖S</value>
+        <name>亳州市</name>
+    </city>
+
+    <city>
+        <value>皖R</value>
+        <name>池州市</name>
+    </city>
+
+    <city>
+        <value>皖P</value>
+        <name>宣城市</name>
+    </city>
+</province>
+
+<province name="北京">
+    <city>
+        <name>北京市</name>
+        <value>京</value>
+    </city>
+</province>
+
+    <province name="福建省">
+        <city>
+            <value>闽A</value>
+            <name>福州市</name>
+        </city>
+
+        <city>
+            <value>闽D</value>
+            <name>厦门市</name>
+        </city>
+
+        <city>
+            <value>闽B</value>
+            <name>莆田市</name>
+        </city>
+
+        <city>
+            <value>闽G</value>
+            <name>三明市</name>
+        </city>
+
+        <city>
+            <value>闽C</value>
+            <name>泉州市</name>
+        </city>
+
+        <city>
+            <value>闽E</value>
+            <name>漳州市</name>
+        </city>
+
+        <city>
+            <value>闽H</value>
+            <name>南平市</name>
+        </city>
+
+        <city>
+            <value>闽F</value>
+            <name>龙岩市</name>
+        </city>
+
+        <city>
+            <value>闽J</value>
+            <name>宁德市</name>
+        </city>
+    </province>
+
+    <province name="甘肃省">
+        <city>
+            <value>甘A</value>
+            <name>兰州市</name>
+        </city>
+
+        <city>
+            <value>甘B</value>
+            <name>嘉峪关市</name>
+        </city>
+
+        <city>
+            <value>甘C</value>
+            <name>金昌市</name>
+        </city>
+
+        <city>
+            <value>甘D</value>
+            <name>白银市</name>
+        </city>
+
+        <city>
+            <value>甘E</value>
+            <name>天水市</name>
+        </city>
+
+        <city>
+            <value>甘H</value>
+            <name>武威市</name>
+        </city>
+
+        <city>
+            <value>甘G</value>
+            <name>张掖市</name>
+        </city>
+
+        <city>
+            <value>甘L</value>
+            <name>平凉市</name>
+        </city>
+
+        <city>
+            <value>甘F</value>
+            <name>酒泉市</name>
+        </city>
+
+        <city>
+            <value>甘M</value>
+            <name>庆阳市</name>
+        </city>
+
+        <city>
+            <value>甘J</value>
+            <name>定西市</name>
+        </city>
+
+        <city>
+            <value>甘K</value>
+            <name>陇南市</name>
+        </city>
+
+        <city>
+            <value>甘N</value>
+            <name>临夏回族自治州</name>
+        </city>
+
+        <city>
+            <value>甘P</value>
+            <name>甘南藏族自治州</name>
+        </city>
+    </province>
+
+    <province name="广东省">
+        <city>
+            <value>粤A</value>
+            <name>广州市</name>
+        </city>
+
+        <city>
+            <value>粤B</value>
+            <name>深圳市</name>
+        </city>
+
+        <city>
+            <value>粤F</value>
+            <name>韶关市</name>
+        </city>
+
+        <city>
+            <value>粤C</value>
+            <name>珠海市</name>
+        </city>
+
+        <city>
+            <value>粤D</value>
+            <name>汕头市</name>
+        </city>
+
+        <city>
+            <value>粤E</value>
+            <name>佛山市</name>
+        </city>
+
+        <city>
+            <value>粤J</value>
+            <name>江门市</name>
+        </city>
+
+        <city>
+            <value>粤G</value>
+            <name>湛江市</name>
+        </city>
+
+        <city>
+            <value>粤K</value>
+            <name>茂名市</name>
+        </city>
+
+        <city>
+            <value>粤H</value>
+            <name>肇庆市</name>
+        </city>
+
+        <city>
+            <value>粤L</value>
+            <name>惠州市</name>
+        </city>
+
+        <city>
+            <value>粤M</value>
+            <name>梅州市</name>
+        </city>
+
+        <city>
+            <value>粤N</value>
+            <name>汕尾市</name>
+        </city>
+
+        <city>
+            <value>粤P</value>
+            <name>河源市</name>
+        </city>
+
+        <city>
+            <value>粤Q</value>
+            <name>阳江市</name>
+        </city>
+
+        <city>
+            <value>粤R</value>
+            <name>清远市</name>
+        </city>
+
+        <city>
+            <value>粤S</value>
+            <name>东莞市</name>
+        </city>
+
+        <city>
+            <value>粤T</value>
+            <name>中山市</name>
+        </city>
+
+        <city>
+            <value>粤U</value>
+            <name>潮州市</name>
+        </city>
+
+        <city>
+            <value>粤V</value>
+            <name>揭阳市</name>
+        </city>
+
+        <city>
+            <value>粤W</value>
+            <name>云浮市</name>
+        </city>
+    </province>
+
+    <province name="广西壮族自治区">
+        <city>
+            <value>桂A</value>
+            <name>南宁市</name>
+        </city>
+
+        <city>
+            <value>桂B</value>
+            <name>柳州市</name>
+        </city>
+
+        <city>
+            <value>桂</value>
+            <name>融水苗族自治县</name>
+    </city>
+
+    <city>
+        <value>桂</value>
+        <name>三江侗族自治县</name>
+    </city>
+
+    <city>
+        <value>桂C</value>
+        <name>桂林市</name>
+    </city>
+
+    <city>
+        <value>桂D</value>
+        <name>梧州市</name>
+    </city>
+
+    <city>
+        <value>桂E</value>
+        <name>北海市</name>
+    </city>
+
+    <city>
+        <value>桂P</value>
+        <name>防城港市</name>
+    </city>
+
+    <city>
+        <value>桂N</value>
+        <name>钦州市</name>
+    </city>
+
+    <city>
+        <value>桂R</value>
+        <name>贵港市</name>
+    </city>
+
+    <city>
+        <value>桂K</value>
+        <name>玉林市</name>
+    </city>
+
+    <city>
+        <value>桂L</value>
+        <name>百色市</name>
+    </city>
+
+    <city>
+        <value>桂J</value>
+        <name>贺州市</name>
+    </city>
+
+    <city>
+        <value>桂M</value>
+        <name>河池市</name>
+    </city>
+
+    <city>
+        <value>桂G</value>
+        <name>来宾市</name>
+    </city>
+
+    <city>
+        <value>桂F</value>
+        <name>崇左市</name>
+    </city>
+    </province>
+
+    <province name="贵州省">
+
+
+        <city>
+            <value>贵A</value>
+            <name>贵阳市</name>
+        </city>
+
+        <city>
+            <value>贵B</value>
+            <name>六盘水市</name>
+        </city>
+
+        <city>
+            <value>贵C</value>
+            <name>遵义市</name>
+        </city>
+
+        <city>
+            <value>贵G</value>
+            <name>安顺市</name>
+        </city>
+
+        <city>
+            <value>贵F</value>
+            <name>毕节市</name>
+        </city>
+
+        <city>
+            <value>贵D</value>
+            <name>铜仁市</name>
+        </city>
+
+        <city>
+            <value>贵E</value>
+            <name>黔西南布依族苗族自治州</name>
+        </city>
+
+        <city>
+            <value>贵H</value>
+            <name>黔东南苗族侗族自治州</name>
+        </city>
+
+        <city>
+            <value>贵J</value>
+            <name>黔南布依族苗族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="海南省">
+        <city>
+            <value>琼A</value>
+            <name>海口市</name>
+        </city>
+
+        <city>
+            <value>琼B</value>
+            <name>三亚市</name>
+        </city>
+
+        <city>
+            <value>琼</value>
+            <name>三沙市</name>
+        </city>
+    </province>
+
+    <province name="河北省">
+        <city>
+            <value>冀A</value>
+            <name>石家庄市</name>
+        </city>
+
+        <city>
+            <value>冀B</value>
+            <name>唐山市</name>
+        </city>
+
+        <city>
+            <value>冀C</value>
+            <name>秦皇岛市</name>
+        </city>
+
+        <city>
+            <value>冀D</value>
+            <name>邯郸市</name>
+        </city>
+
+        <city>
+            <value>冀E</value>
+            <name>邢台市</name>
+        </city>
+
+        <city>
+            <value>冀F</value>
+            <name>保定市</name>
+        </city>
+
+        <city>
+            <value>冀G</value>
+            <name>张家口市</name>
+        </city>
+
+        <city>
+            <value>冀H</value>
+            <name>承德市</name>
+        </city>
+
+        <city>
+            <value>冀J</value>
+            <name>沧州市</name>
+        </city>
+
+        <city>
+            <value>冀R</value>
+            <name>廊坊市</name>
+        </city>
+
+        <city>
+            <value>冀T</value>
+            <name>衡水市</name>
+        </city>
+
+    </province>
+
+
+    <province name="河南省">
+        <city>
+            <value>豫A</value>
+            <name>郑州市</name>
+        </city>
+
+        <city>
+            <value>豫B</value>
+            <name>开封市</name>
+        </city>
+
+        <city>
+            <value>豫C</value>
+            <name>洛阳市</name>
+        </city>
+
+        <city>
+            <value>豫D</value>
+            <name>平顶山市</name>
+        </city>
+
+        <city>
+            <value>豫E</value>
+            <name>安阳市</name>
+        </city>
+
+        <city>
+            <value>豫F</value>
+            <name>鹤壁市</name>
+        </city>
+
+        <city>
+            <value>豫G</value>
+            <name>新乡市</name>
+        </city>
+
+        <city>
+            <value>豫H</value>
+            <name>焦作市</name>
+        </city>
+
+        <city>
+            <value>豫J</value>
+            <name>濮阳市</name>
+        </city>
+
+        <city>
+            <value>豫K</value>
+            <name>许昌市</name>
+        </city>
+
+        <city>
+            <value>豫L</value>
+            <name>漯河市</name>
+        </city>
+
+        <city>
+            <value>豫M</value>
+            <name>三门峡市</name>
+        </city>
+
+        <city>
+            <value>豫R</value>
+            <name>南阳市</name>
+        </city>
+
+        <city>
+            <value>豫N</value>
+            <name>商丘市</name>
+        </city>
+
+        <city>
+            <value>豫S</value>
+            <name>信阳市</name>
+        </city>
+
+        <city>
+            <value>豫P</value>
+            <name>周口市</name>
+        </city>
+
+        <city>
+            <value>豫Q</value>
+            <name>驻马店市</name>
+        </city>
+
+    </province>
+
+    <province name="黑龙江省">
+        <city>
+            <value>黑A</value>
+            <name>哈尔滨市</name>
+        </city>
+
+        <city>
+            <value>黑B</value>
+            <name>齐齐哈尔市</name>
+        </city>
+
+        <city>
+            <value>黑G</value>
+            <name>鸡西市</name>
+        </city>
+
+        <city>
+            <value>黑H</value>
+            <name>鹤岗市</name>
+        </city>
+
+        <city>
+            <value>黑J</value>
+            <name>双鸭山市</name>
+        </city>
+
+        <city>
+            <value>黑E</value>
+            <name>大庆市</name>
+        </city>
+
+        <city>
+            <value>黑F</value>
+            <name>伊春市</name>
+        </city>
+
+        <city>
+            <value>黑D</value>
+            <name>佳木斯市</name>
+        </city>
+
+        <city>
+            <value>黑K</value>
+            <name>七台河市</name>
+        </city>
+
+        <city>
+            <value>黑C</value>
+            <name>牡丹江市</name>
+        </city>
+
+        <city>
+            <value>黑N</value>
+            <name>黑河市</name>
+        </city>
+
+        <city>
+            <value>黑M</value>
+            <name>绥化市</name>
+        </city>
+
+        <city>
+            <value>黑P</value>
+            <name>大兴安岭地区</name>
+        </city>
+
+
+    </province>
+
+    <province name="湖北省">
+
+        <city>
+            <value>鄂A</value>
+            <name>武汉市</name>
+        </city>
+
+        <city>
+            <value>鄂B</value>
+            <name>黄石市</name>
+        </city>
+
+        <city>
+            <value>鄂C</value>
+            <name>十堰市</name>
+        </city>
+
+        <city>
+            <value>鄂E</value>
+            <name>宜昌市</name>
+        </city>
+
+        <city>
+            <value>鄂F</value>
+            <name>襄阳市</name>
+        </city>
+
+        <city>
+            <value>鄂G</value>
+            <name>鄂州市</name>
+        </city>
+
+        <city>
+            <value>鄂H</value>
+            <name>荆门市</name>
+        </city>
+
+        <city>
+            <value>鄂K</value>
+            <name>孝感市</name>
+        </city>
+
+        <city>
+            <value>鄂D</value>
+            <name>荆州市</name>
+        </city>
+
+        <city>
+            <value>鄂J</value>
+            <name>黄冈市</name>
+        </city>
+
+        <city>
+            <value>鄂L</value>
+            <name>咸宁市</name>
+        </city>
+
+        <city>
+            <value>鄂S</value>
+            <name>随州市</name>
+        </city>
+
+        <city>
+            <value>鄂Q</value>
+            <name>恩施土家族苗族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="湖南省">
+
+        <city>
+            <value>湘A</value>
+            <name>长沙市</name>
+        </city>
+
+        <city>
+            <value>湘B</value>
+            <name>株洲市</name>
+        </city>
+
+        <city>
+            <value>湘C</value>
+            <name>湘潭市</name>
+        </city>
+
+        <city>
+            <value>湘D</value>
+            <name>衡阳市</name>
+        </city>
+
+        <city>
+            <value>湘E</value>
+            <name>邵阳市</name>
+        </city>
+
+        <city>
+            <value>湘F</value>
+            <name>岳阳市</name>
+        </city>
+
+        <city>
+            <value>湘J</value>
+            <name>常德市</name>
+        </city>
+
+        <city>
+            <value>湘G</value>
+            <name>张家界市</name>
+        </city>
+
+        <city>
+            <value>湘H</value>
+            <name>益阳市</name>
+        </city>
+
+        <city>
+            <value>湘L</value>
+            <name>郴州市</name>
+        </city>
+
+        <city>
+            <value>湘M</value>
+            <name>永州市</name>
+        </city>
+
+        <city>
+            <value>湘N</value>
+            <name>怀化市</name>
+        </city>
+
+        <city>
+            <value>湘K</value>
+            <name>娄底市</name>
+        </city>
+
+        <city>
+            <value>湘U</value>
+            <name>湘西土家族苗族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="吉林省">
+        <city>
+            <value>吉A</value>
+            <name>长春市</name>
+        </city>
+
+        <city>
+            <value>吉B</value>
+            <name>吉林市</name>
+        </city>
+
+        <city>
+            <value>吉C</value>
+            <name>四平市</name>
+        </city>
+
+        <city>
+            <value>吉D</value>
+            <name>辽源市</name>
+        </city>
+
+        <city>
+            <value>吉E</value>
+            <name>通化市</name>
+        </city>
+
+        <city>
+            <value>吉F</value>
+            <name>白山市</name>
+        </city>
+
+        <city>
+            <value>吉J</value>
+            <name>松原市</name>
+        </city>
+
+        <city>
+            <value>吉G</value>
+            <name>白城市</name>
+        </city>
+
+        <city>
+            <value>吉H</value>
+            <name>延边朝鲜族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="江苏省">
+        <city>
+            <value>苏A</value>
+            <name>南京市</name>
+        </city>
+
+        <city>
+            <value>苏B</value>
+            <name>无锡市</name>
+        </city>
+
+        <city>
+            <value>苏C</value>
+            <name>徐州市</name>
+        </city>
+
+        <city>
+            <value>苏D</value>
+            <name>常州市</name>
+        </city>
+
+        <city>
+            <value>苏E</value>
+            <name>苏州市</name>
+        </city>
+
+        <city>
+            <value>苏F</value>
+            <name>南通市</name>
+        </city>
+
+        <city>
+            <value>苏G</value>
+            <name>连云港市</name>
+        </city>
+
+        <city>
+            <value>苏H</value>
+            <name>淮安市</name>
+        </city>
+
+        <city>
+            <value>苏J</value>
+            <name>盐城市</name>
+        </city>
+
+        <city>
+            <value>苏K</value>
+            <name>扬州市</name>
+        </city>
+
+        <city>
+            <value>苏L</value>
+            <name>镇江市</name>
+        </city>
+
+        <city>
+            <value>苏M</value>
+            <name>泰州市</name>
+        </city>
+
+        <city>
+            <value>苏N</value>
+            <name>宿迁市</name>
+        </city>
+
+    </province>
+
+    <province name="江西省">
+        <city>
+            <value>赣A</value>
+            <name>南昌市</name>
+        </city>
+
+        <city>
+            <value>赣H</value>
+            <name>景德镇市</name>
+        </city>
+
+        <city>
+            <value>赣J</value>
+            <name>萍乡市</name>
+        </city>
+
+        <city>
+            <value>赣G</value>
+            <name>九江市</name>
+        </city>
+
+        <city>
+            <value>赣K</value>
+            <name>新余市</name>
+        </city>
+
+        <city>
+            <value>赣L</value>
+            <name>鹰潭市</name>
+        </city>
+
+        <city>
+            <value>赣B</value>
+            <name>赣州市</name>
+        </city>
+
+        <city>
+            <value>赣C</value>
+            <name>吉安市</name>
+        </city>
+
+        <city>
+            <value>赣C</value>
+            <name>宜春市</name>
+        </city>
+
+        <city>
+            <value>赣F</value>
+            <name>抚州市</name>
+        </city>
+
+        <city>
+            <value>赣E</value>
+            <name>上饶市</name>
+        </city>
+
+    </province>
+
+    <province name="辽宁省">
+        <city>
+            <value>辽A</value>
+            <name>沈阳市</name>
+        </city>
+
+        <city>
+            <value>辽B</value>
+            <name>大连市</name>
+        </city>
+
+        <city>
+            <value>辽C</value>
+            <name>鞍山市</name>
+        </city>
+
+        <city>
+            <value>辽D</value>
+            <name>抚顺市</name>
+        </city>
+
+        <city>
+            <value>辽E</value>
+            <name>本溪市</name>
+        </city>
+
+        <city>
+            <value>辽F</value>
+            <name>丹东市</name>
+        </city>
+
+        <city>
+            <value>辽G</value>
+            <name>锦州市</name>
+        </city>
+
+        <city>
+            <value>辽H</value>
+            <name>营口市</name>
+        </city>
+
+        <city>
+            <value>辽J</value>
+            <name>阜新市</name>
+        </city>
+
+        <city>
+            <value>辽K</value>
+            <name>辽阳市</name>
+        </city>
+
+        <city>
+            <value>辽L</value>
+            <name>盘锦市</name>
+        </city>
+
+        <city>
+            <value>辽M</value>
+            <name>铁岭市</name>
+        </city>
+
+        <city>
+            <value>辽N</value>
+            <name>朝阳市</name>
+        </city>
+
+        <city>
+            <value>辽P</value>
+            <name>葫芦岛市</name>
+        </city>
+
+
+    </province>
+
+    <province name="内蒙古自治区">
+        <city>
+            <value>蒙A</value>
+            <name>呼和浩特市</name>
+        </city>
+
+        <city>
+            <value>蒙B</value>
+            <name>包头市</name>
+        </city>
+
+        <city>
+            <value>蒙C</value>
+            <name>乌海市</name>
+        </city>
+
+        <city>
+            <value>蒙D</value>
+            <name>赤峰市</name>
+        </city>
+
+        <city>
+            <value>蒙G</value>
+            <name>通辽市</name>
+        </city>
+
+        <city>
+            <value>蒙K</value>
+            <name>鄂尔多斯市</name>
+        </city>
+
+        <city>
+            <value>蒙E</value>
+            <name>呼伦贝尔市</name>
+        </city>
+
+        <city>
+            <value>蒙L</value>
+            <name>巴彦淖尔市</name>
+        </city>
+
+        <city>
+            <value>蒙J</value>
+            <name>乌兰察布市</name>
+        </city>
+
+        <city>
+            <value>蒙F</value>
+            <name>兴安盟</name>
+        </city>
+
+        <city>
+            <value>蒙H</value>
+            <name>锡林郭勒盟</name>
+        </city>
+
+        <city>
+            <value>蒙M</value>
+            <name>阿拉善盟</name>
+        </city>
+
+    </province>
+
+    <province name="宁夏回族自治区">
+        <city>
+            <value>宁A</value>
+            <name>银川市</name>
+        </city>
+
+        <city>
+            <value>宁B</value>
+            <name>石嘴山市</name>
+        </city>
+
+        <city>
+            <value>宁C</value>
+            <name>吴忠市</name>
+        </city>
+
+        <city>
+            <value>宁D</value>
+            <name>固原市</name>
+        </city>
+
+        <city>
+            <value>宁E</value>
+            <name>中卫市</name>
+        </city>
+
+
+    </province>
+
+    <province name="青海省">
+        <city>
+            <value>青A</value>
+            <name>西宁市</name>
+        </city>
+
+        <city>
+            <value>青B</value>
+            <name>海东市</name>
+        </city>
+
+        <city>
+            <value>青C</value>
+            <name>海北藏族自治州</name>
+        </city>
+
+        <city>
+            <value>青D</value>
+            <name>黄南藏族自治州</name>
+        </city>
+
+        <city>
+            <value>青E</value>
+            <name>海南藏族自治州</name>
+        </city>
+
+        <city>
+            <value>青F</value>
+            <name>果洛藏族自治州</name>
+        </city>
+
+        <city>
+            <value>青G</value>
+            <name>玉树藏族自治州</name>
+        </city>
+
+        <city>
+            <value>青H</value>
+            <name>海西蒙古族藏族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="山东省">
+        <city>
+            <value>鲁A</value>
+            <name>济南市</name>
+        </city>
+
+        <city>
+            <value>鲁B</value>
+            <name>青岛市</name>
+        </city>
+
+        <city>
+            <value>鲁C</value>
+            <name>淄博市</name>
+        </city>
+
+        <city>
+            <value>鲁D</value>
+            <name>枣庄市</name>
+        </city>
+
+        <city>
+            <value>鲁E</value>
+            <name>东营市</name>
+        </city>
+
+        <city>
+            <value>鲁F</value>
+            <name>烟台市</name>
+        </city>
+
+        <city>
+            <value>鲁G</value>
+            <name>潍坊市</name>
+        </city>
+
+        <city>
+            <value>鲁H</value>
+            <name>济宁市</name>
+        </city>
+
+        <city>
+            <value>鲁J</value>
+            <name>泰安市</name>
+        </city>
+
+        <city>
+            <value>鲁K</value>
+            <name>威海市</name>
+        </city>
+
+        <city>
+            <value>鲁L</value>
+            <name>日照市</name>
+        </city>
+
+        <city>
+            <value>鲁S</value>
+            <name>莱芜市</name>
+        </city>
+
+        <city>
+            <value>鲁Q</value>
+            <name>临沂市</name>
+        </city>
+
+        <city>
+            <value>鲁N</value>
+            <name>德州市</name>
+        </city>
+
+        <city>
+            <value>鲁P</value>
+            <name>聊城市</name>
+        </city>
+
+        <city>
+            <value>鲁M</value>
+            <name>滨州市</name>
+        </city>
+
+        <city>
+            <value>鲁R</value>
+            <name>菏泽市</name>
+        </city>
+
+    </province>
+
+
+    <province name="山西省">
+        <city>
+            <value>晋A</value>
+            <name>太原市</name>
+        </city>
+
+        <city>
+            <value>晋B</value>
+            <name>大同市</name>
+        </city>
+
+        <city>
+            <value>晋C</value>
+            <name>阳泉市</name>
+        </city>
+
+        <city>
+            <value>晋D</value>
+            <name>长治市</name>
+        </city>
+
+        <city>
+            <value>晋E</value>
+            <name>晋城市</name>
+        </city>
+
+        <city>
+            <value>晋F</value>
+            <name>朔州市</name>
+        </city>
+
+        <city>
+            <value>晋K</value>
+            <name>晋中市</name>
+        </city>
+
+        <city>
+            <value>晋M</value>
+            <name>运城市</name>
+        </city>
+
+        <city>
+            <value>晋H</value>
+            <name>忻州市</name>
+        </city>
+
+        <city>
+            <value>晋L</value>
+            <name>临汾市</name>
+        </city>
+
+        <city>
+            <value>晋J</value>
+            <name>吕梁市</name>
+        </city>
+
+    </province>
+
+    <province name="陕西省">
+        <city>
+            <value>陕A</value>
+            <name>西安市</name>
+        </city>
+
+        <city>
+            <value>陕B</value>
+            <name>铜川市</name>
+        </city>
+
+        <city>
+            <value>陕C</value>
+            <name>宝鸡市</name>
+        </city>
+
+        <city>
+            <value>陕D</value>
+            <name>咸阳市</name>
+        </city>
+
+        <city>
+            <value>陕E</value>
+            <name>渭南市</name>
+        </city>
+
+        <city>
+            <value>陕J</value>
+            <name>延安市</name>
+        </city>
+
+        <city>
+            <value>陕F</value>
+            <name>汉中市</name>
+        </city>
+
+        <city>
+            <value>陕K</value>
+            <name>榆林市</name>
+        </city>
+
+        <city>
+            <value>陕G</value>
+            <name>安康市</name>
+        </city>
+
+        <city>
+            <value>陕H</value>
+            <name>商洛市</name>
+        </city>
+
+    </province>
+
+    <province name="上海">
+        <city>
+            <value>沪</value>
+            <name>上海市</name>
+        </city>
+
+    </province>
+
+    <province name="四川省">
+        <city>
+            <value>川A</value>
+            <name>成都市</name>
+        </city>
+
+        <city>
+            <value>川C</value>
+            <name>自贡市</name>
+        </city>
+
+        <city>
+            <value>川D</value>
+            <name>攀枝花市</name>
+        </city>
+
+        <city>
+            <value>川E</value>
+            <name>泸州市</name>
+        </city>
+
+        <city>
+            <value>川F</value>
+            <name>德阳市</name>
+        </city>
+
+        <city>
+            <value>川B</value>
+            <name>绵阳市</name>
+        </city>
+
+        <city>
+            <value>川H</value>
+            <name>广元市</name>
+        </city>
+
+        <city>
+            <value>川J</value>
+            <name>遂宁市</name>
+        </city>
+
+        <city>
+            <value>川K</value>
+            <name>内江市</name>
+        </city>
+
+        <city>
+            <value>川L</value>
+            <name>乐山市</name>
+        </city>
+
+        <city>
+            <value>川R</value>
+            <name>南充市</name>
+        </city>
+
+        <city>
+            <value>川Z</value>
+            <name>眉山市</name>
+        </city>
+
+        <city>
+            <value>川Q</value>
+            <name>宜宾市</name>
+        </city>
+
+        <city>
+            <value>川X</value>
+            <name>广安市</name>
+        </city>
+
+        <city>
+            <value>川S</value>
+            <name>达州市</name>
+        </city>
+
+        <city>
+            <value>川T</value>
+            <name>雅安市</name>
+        </city>
+
+        <city>
+            <value>川Y</value>
+            <name>巴中市</name>
+        </city>
+
+        <city>
+            <value>川M</value>
+            <name>资阳市</name>
+        </city>
+
+        <city>
+            <value>川U</value>
+            <name>阿坝藏族羌族自治州</name>
+        </city>
+
+        <city>
+            <value>川V</value>
+            <name>甘孜藏族自治州</name>
+        </city>
+
+        <city>
+            <value>川W</value>
+            <name>凉山彝族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="天津">
+        <city>
+            <value>津</value>
+            <name>天津市</name>
+        </city>
+
+    </province>
+
+
+    <province name="西藏自治区">
+        <city>
+            <value>藏A</value>
+            <name>拉萨市</name>
+        </city>
+
+        <city>
+            <value>藏B</value>
+            <name>昌都地区</name>
+        </city>
+
+        <city>
+            <value>藏C</value>
+            <name>山南地区</name>
+        </city>
+
+        <city>
+            <value>藏D</value>
+            <name>日喀则地区</name>
+        </city>
+
+        <city>
+            <value>藏E</value>
+            <name>那曲地区</name>
+        </city>
+
+        <city>
+            <value>藏F</value>
+            <name>阿里地区</name>
+        </city>
+
+        <city>
+            <value>藏G</value>
+            <name>林芝地区</name>
+        </city>
+
+    </province>
+
+    <province name="新疆维吾尔自治区">
+        <city>
+            <value>新A</value>
+            <name>乌鲁木齐市</name>
+        </city>
+
+        <city>
+            <value>新J</value>
+            <name>克拉玛依市</name>
+        </city>
+
+        <city>
+            <value>新K</value>
+            <name>吐鲁番地区</name>
+        </city>
+
+        <city>
+            <value>新L</value>
+            <name>哈密地区</name>
+        </city>
+
+        <city>
+            <value>新B</value>
+            <name>昌吉回族自治州</name>
+        </city>
+
+        <city>
+            <value>新E</value>
+            <name>博尔塔拉蒙古自治州</name>
+        </city>
+
+        <city>
+            <value>新M</value>
+            <name>巴音郭楞蒙古自治州</name>
+        </city>
+
+        <city>
+            <value>新N</value>
+            <name>阿克苏地区</name>
+        </city>
+
+        <city>
+            <value>新P</value>
+            <name>克孜勒苏柯尔克孜自治州</name>
+        </city>
+
+        <city>
+            <value>新Q</value>
+            <name>喀什地区</name>
+        </city>
+
+        <city>
+            <value>新R</value>
+            <name>和田地区</name>
+        </city>
+
+        <city>
+            <value>新F</value>
+            <name>伊犁哈萨克自治州</name>
+        </city>
+
+        <city>
+            <value>新G</value>
+            <name>塔城地区</name>
+        </city>
+
+        <city>
+            <value>新H</value>
+            <name>阿勒泰地区</name>
+        </city>
+
+    </province>
+
+    <province name="云南省">
+        <city>
+            <value>云A</value>
+            <name>昆明市</name>
+        </city>
+
+        <city>
+            <value>云D</value>
+            <name>曲靖市</name>
+        </city>
+
+        <city>
+            <value>云F</value>
+            <name>玉溪市</name>
+        </city>
+
+        <city>
+            <value>云M</value>
+            <name>保山市</name>
+        </city>
+
+        <city>
+            <value>云C</value>
+            <name>昭通市</name>
+        </city>
+
+        <city>
+            <value>云P</value>
+            <name>丽江市</name>
+        </city>
+
+        <city>
+            <value>云J</value>
+            <name>普洱市</name>
+        </city>
+
+        <city>
+            <value>云S</value>
+            <name>临沧市</name>
+        </city>
+
+        <city>
+            <value>云E</value>
+            <name>楚雄彝族自治州</name>
+        </city>
+
+        <city>
+            <value>云G</value>
+            <name>红河哈尼族彝族自治州</name>
+        </city>
+
+        <city>
+            <value>云H</value>
+            <name>文山壮族苗族自治州</name>
+        </city>
+
+        <city>
+            <value>云K</value>
+            <name>西双版纳傣族自治州</name>
+        </city>
+
+        <city>
+            <value>云L</value>
+            <name>大理白族自治州</name>
+        </city>
+
+        <city>
+            <value>云N</value>
+            <name>德宏傣族景颇族自治州</name>
+        </city>
+
+        <city>
+            <value>云Q</value>
+            <name>怒江傈僳族自治州</name>
+        </city>
+
+        <city>
+            <value>云R</value>
+            <name>迪庆藏族自治州</name>
+        </city>
+
+    </province>
+
+    <province name="重庆">
+
+        <city>
+            <value>渝</value>
+            <name>重庆市</name>
+        </city>
+
+    </province>
+
+</provinces>

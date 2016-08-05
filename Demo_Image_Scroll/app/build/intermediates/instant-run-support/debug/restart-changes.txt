@@ -1,0 +1,4 @@
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\demo_image_scroll\MainActivity.class
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\demo_image_scroll\MainActivity$MyAdapter$1.class
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\demo_image_scroll\MainActivity$MyAdapter.class
+CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\demo_image_scroll\MainActivity$4.class

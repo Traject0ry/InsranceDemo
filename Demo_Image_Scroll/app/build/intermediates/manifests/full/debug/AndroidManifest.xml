@@ -23,7 +23,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.demo_image_scroll.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,7 +33,9 @@
         </activity>
         <activity android:name="com.example.demo_image_scroll.SelectActivity" >
         </activity>
-        <activity android:name="com.example.demo_image_scroll.Activity_self2" >
+        <activity
+            android:name="com.example.demo_image_scroll.Activity_self2"
+            android:windowSoftInputMode="stateHidden" >
         </activity>
         <activity android:name="com.example.demo_image_scroll.SearchModelNumActivity" >
         </activity>

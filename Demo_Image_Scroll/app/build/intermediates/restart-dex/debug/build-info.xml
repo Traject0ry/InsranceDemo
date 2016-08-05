@@ -4,38 +4,42 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="9244507885300"
-    token="5494155705803273692"
-    verifier="METHOD_DELETED" >
+    timestamp="16609901426651"
+    token="5494155705803273692" >
 
     <task
         name="javac"
-        duration="257" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="41" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-        type="DEX" />
+        location="D:\workspace\Demo_Image_Scroll\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="8458342066709" >
+    <build timestamp="5620627106040" >
         <artifact
             location="D:\workspace\Demo_Image_Scroll\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="9244507885300"
-        verifier="METHOD_DELETED" >
+        timestamp="5935427379186"
+        verifier="COMPATIBLE" >
         <artifact
-            location="D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
+            location="D:\workspace\Demo_Image_Scroll\app\build\intermediates\builds\debug\5935427379186\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="16609901426651" >
+        <artifact
+            location="D:\workspace\Demo_Image_Scroll\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

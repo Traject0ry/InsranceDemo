@@ -3,7 +3,9 @@ package com.example.demo_image_scroll;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.XmlResourceParser;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,6 +15,12 @@ import android.widget.ExpandableListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.demo_image_scroll.entity.City;
+
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -20,46 +28,76 @@ import java.util.Map;
 
 public class SelectActivity extends Activity {
     private List<String> parent;
-    private Map<String, List<String>> map;
+    private Map<String, List<City>> map;
     private ExpandableListView mainlistview;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select);
-        parent = new ArrayList<>();
         map = new HashMap<>();
-        parent.add("浙江省");
-        parent.add("安徽省");
-        parent.add("北京");
-        List<String> list1 = new ArrayList<String>();
-        list1.add("杭州市");
-        list1.add("宁波市");
-        list1.add("温州市");
-        map.put("浙江省", list1);
-
-        List<String> list2 = new ArrayList<String>();
-        list2.add("合肥市");
-        list2.add("芜湖市");
-        list2.add("蚌埠市");
-        map.put("安徽省", list2);
-
-        List<String> list3 = new ArrayList<String>();
-        list3.add("北京市");
-        map.put("北京", list3);
+        parent = new ArrayList<>();
+        getData();
         mainlistview = (ExpandableListView) findViewById(R.id.main_expandablelistview);
         mainlistview.setAdapter(new MyExpandableListAdapter());
         mainlistview.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v, int groupPosition, int
                     childPosition, long id) {
-                if (map.get(SelectActivity.this.parent.get(groupPosition)).get(childPosition).equals("宁波市")){
-                    setResult(RESULT_OK,new Intent().putExtra("city","宁波"));
-                    finish();
-                }
+                Intent intent = new Intent();
+                setResult(RESULT_OK, intent.putExtra("city", map.get(SelectActivity.this
+                        .parent.get(groupPosition)).get(childPosition).getName()));
+                setResult(RESULT_OK, intent.putExtra("value", map.get(SelectActivity.this
+                        .parent.get(groupPosition)).get(childPosition).getValue()));
+                finish();
+
                 return true;
             }
         });
+    }
+
+    private void getData() {
+        List<City> list = new ArrayList<City>();
+        XmlResourceParser xrp = getResources().getXml(R.xml.city_values);
+        try {
+            // 直到文档的结尾处
+            String proviceName = "";
+            City city = new City();
+
+            while (xrp.getEventType() != XmlResourceParser.END_DOCUMENT) {
+                switch (xrp.getEventType()) {
+                    case XmlResourceParser.START_TAG:
+                        if (xrp.getName().equals("province")) {
+                            proviceName = xrp.getAttributeValue(null, "name");
+                        } else if (xrp.getName().equals("name")) {
+                            city.setName(xrp.nextText());
+                        } else if (xrp.getName().equals("value")) {
+                            city.setValue(xrp.nextText());
+                        }
+                        break;
+
+                    case XmlPullParser.END_TAG:
+                        if (xrp.getName().equals("city")) {
+                            city.setProvince(proviceName);
+                            City temp = (City) city.clone();
+                            list.add(temp);
+                            city.clear();
+                        } else if (xrp.getName().equals("province")) {
+                            parent.add(proviceName);
+                            List<City> tempList = new ArrayList<>();
+                            tempList.addAll(list);
+                            map.put(proviceName, tempList);
+                            list.clear();
+                            proviceName = "";
+                        }
+                        break;
+                }
+                xrp.next();
+            }
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
     }
 
     class MyExpandableListAdapter extends BaseExpandableListAdapter {
@@ -81,7 +119,7 @@ public class SelectActivity extends Activity {
         public View getChildView(int groupPosition, int childPosition,
                                  boolean isLastChild, View convertView, ViewGroup parent) {
             String key = SelectActivity.this.parent.get(groupPosition);
-            String info = map.get(key).get(childPosition);
+            String info = map.get(key).get(childPosition).getName();
             if (convertView == null) {
                 LayoutInflater inflater = (LayoutInflater) SelectActivity.this
                         .getSystemService(Context.LAYOUT_INFLATER_SERVICE);

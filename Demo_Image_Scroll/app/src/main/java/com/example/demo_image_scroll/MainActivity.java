@@ -127,8 +127,11 @@ public class MainActivity extends Activity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == 10001 && resultCode == RESULT_OK) {
-            cityET.setText(data.getStringExtra("city"));
-            carnumberET.setText("浙B");
+            String city=data.getStringExtra("city");
+            cityET.setText(city);
+            String value = data.getStringExtra("value");
+            carnumberET.setText(value);
+            carnumberET.setSelection(value.length());
 
         }
     }

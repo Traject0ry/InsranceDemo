@@ -1,3 +1,0 @@
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\cndemoz\avalidations\EditTextValidator$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\cndemoz\avalidations\EditTextValidator$1$override.class
-CHANGED,D:\workspace\Demo_Image_Scroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
